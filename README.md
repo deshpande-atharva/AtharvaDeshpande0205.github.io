@@ -4,100 +4,87 @@
 
 ### Full Stack & Cloud Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://sahilk710.github.io/sahilk710/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sahil-kasliwal/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sahilk710)
-[![Resume](https://drive.google.com/file/d/1wZNja7jJKJk-daqgmUTs1Dd2H7aE6BHb/view?usp=drive_link)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=for-the-badge)](https://deshpande-atharva.github.io/AtharvaDeshpande0205.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atharva-deshpande0205/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/deshpande-atharva)
 
 ---
 
-*An immersive 3D portfolio featuring physics-based interactions, animated transitions, and a custom character scene — built to stand out.*
+*An immersive portfolio featuring physics-based interactions, animated transitions, and interactive 3D elements — built to stand out.*
 
 </div>
 
 <br/>
 
-![Portfolio Preview](public/images/portfolio-preview.png)
-
 ---
 
 ## About Me
 
-I am a **Data Scientist and AI Engineer** with hands-on expertise in LLMs, RAG pipelines, and knowledge-graph augmented solutions. I have a proven track record of building scalable AI/ML systems that optimize decision-making, reduce operational overhead, and deliver measurable business impact.
+I am a **Software Engineer** who builds reliable, production-ready systems end to end. My expertise covers the entire stack — from backend services in Go and Node.js to interactive React interfaces, from database architecture in PostgreSQL to automated cloud infrastructure on AWS.
 
 **Education:**
-- **M.S. in Computer Software Engineering** (DS & ML Focus) — Northeastern University, Boston, MA | GPA: 3.7/4
-- **B.Tech in Computer Science** — Medi-Caps University | GPA: 4/4
+- **M.S. in Computer Software Engineering** (DS & ML Focus) — Northeastern University, Boston, MA | GPA: 3.5/4
+- **B.Tech in Computer Engineering** — University of Pune | GPA: 4/4
 
 ---
 
 ## What I Do
 
-| AI & Data Science | Data Engineering |
+| Backend & Platform Engineering | Full-Stack & Cloud Engineering |
 |---|---|
-| LLMs & Prompt Engineering | Python |
-| RAG Pipelines | AWS SageMaker |
-| Knowledge Graphs | SQL & dbt |
-| NLP & BERT | Docker |
-| Neo4j | Tableau |
-| Snowflake | Streamlit & FastAPI |
+| Go | React |
+| Node.js | TypeScript |
+| FastAPI | AWS |
+| REST APIs | Terraform |
+| PostgreSQL | Docker |
+| Distributed Systems | GitHub Actions |
 
 ---
 
 ## Featured Projects
 
-### 01 — SkillMatchAI
-> **AI-Powered Job Recommendation System**
+### 01 — VoiceCanvas
+> **Real-Time AI Speech Analysis Platform**
 
-An intelligent job matching platform that leverages semantic search to connect candidates with the most relevant opportunities.
+**Tools:** React, FastAPI, Deepgram, Claude, WebSockets, Web Audio API, Docker
 
-**Tools:** OpenAI Embeddings, Pinecone, Airflow, FastAPI, Streamlit
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/sahilk710/jobzilla-ai)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/deshpande-atharva/Sentiment-Transcript-Visualizer)
 
 ---
 
-### 02 — NVIDIA RAG Insights
-> **RAG-Based Financial Analysis Platform**
+### 02 — CloudForge
+> **Multi-Account AWS Infrastructure & Immutable Delivery Platform**
 
-A retrieval-augmented generation system for analyzing SEC financial filings with vector search and interactive dashboards.
+**Tools:** AWS, Terraform, Packer, GitHub Actions, EC2, RDS, ALB, Auto Scaling, KMS
 
-**Tools:** RAG, Snowflake, Vector Search, dbt, Interactive Dashboards
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/sahilk710/Sec-Financial-Data-Pipeline)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/deshpande-atharva/cloud-infra-and-webapp)
 
 ---
 
-### 03 — SummarAIze
-> **PDF Summarization & QA AI**
+### 03 — DocuExtract AI
+> **AI-Powered PDF Data Extraction Platform**
 
-An AI-powered document summarization and question-answering tool supporting multiple LLM backends with caching for performance.
+**Tools:** React, TypeScript, FastAPI, Google Gemini, PyPDF2, Docker, Docker Compose
 
-**Tools:** GPT, Claude, LiteLLM, FastAPI, Redis, Streamlit
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/sahilk710/Customer-Support-Email-Agent)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/deshpande-atharva/AI-powered-PDF-extractor-and-Summarizer)
 
 ---
 
-### 04 — MarketMindAI
-> **AI-Powered Market Intelligence**
+### 04 — PharmaLens AI
+> **LLM-Powered SEC Drug Pipeline Intelligence Platform**
 
-An ML-driven market analysis platform that surfaces actionable insights from complex market data using NLP and visualization pipelines.
+**Tools:** Python, FastAPI, OpenAI, Gemini, SEC EDGAR, Google Cloud Storage, Streamlit
 
-**Tools:** Python, NLP, ML Pipelines, Data Analytics, Visualization
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/sahilk710/MarketMindAI-)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/deshpande-atharva/clinic-bot-extraction)
 
 ---
 
 ## Career
 
-| Role | Company | Period | Highlights |
-|---|---|---|---|
-| **Data Scientist** | Fidelity Investments, MA | 2025 | Led LLM prompt engineering across 5+ models, reduced hallucination by 34%, built RAG + Knowledge Graph QA platform improving multi-hop reasoning accuracy by 28% |
-| **Data Scientist** | LMS Pvt Ltd | 2022–24 | Trained ML models on AWS SageMaker, built data pipelines processing 1TB+ data, achieved 85% accuracy on NLP sentiment analysis with BERT |
-| **Data Engineer** | Codiant Software Technologies | 2020–22 | Automated analytics pipelines with Python/Docker/AWS, engineered Neo4j graph models across 1M+ transactions, 88% accuracy churn prediction leading to 23% churn reduction |
+| Role | Company | Period |
+|---|---|---|
+| **Full-Stack Engineering Intern** | Mudstack Inc, USA | 2026 |
+| **Software Engineer** | Persistent Systems (IBM Client) | 2022–23 |
 
 ---
 
@@ -105,13 +92,15 @@ An ML-driven market analysis platform that surfaces actionable insights from com
 
 <div align="center">
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
@@ -120,37 +109,41 @@ An ML-driven market analysis platform that surfaces actionable insights from com
 
 ## Portfolio Features
 
-- **3D Character Scene** — Interactive Three.js character with mouse-tracking and scroll-driven animations
-- **Physics-Based Tech Sphere** — Tech logos rendered as bouncing 3D spheres you can push around with your cursor
-- **Smooth Scroll Storytelling** — GSAP ScrollSmoother + ScrollTrigger for cinematic section transitions
-- **Custom Cursor** — Context-aware cursor that reacts to interactive elements
-- **Interactive Project Carousel** — Swipeable project showcase with images and GitHub links
-- **Fully Responsive** — Optimized layouts for desktop, tablet, and mobile
+- **Interactive Lanyard Card** — Physics-based 3D badge you can drag, throw and flip
+- **Split-Flap Loading Screen** — Multilingual welcome messages with mechanical flip animation
+- **Gooey Navigation** — Animated navbar with particle effects
+- **Spiral Tech Stack** — Auto-scrolling 3D spiral carousel of technology logos
+- **Orbit Contact Section** — Social icons orbiting in 3D space
+- **Smooth Scroll Storytelling** — GSAP ScrollSmoother + ScrollTrigger for cinematic transitions
+- **Interactive Project Folders** — Hover-to-reveal project cards
+- **TechText Name Animation** — Canvas-based interactive text with physics
 
 ## Built With
 
 ```
-React 18  ·  TypeScript  ·  Vite  ·  Three.js  ·  React Three Fiber  ·  GSAP  ·  Rapier Physics
+React 18  ·  TypeScript  ·  Vite  ·  Three.js  ·  GSAP  ·  React Bits
 ```
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/sahilk710/sahilk710.git
-cd sahilk710
+git clone https://github.com/deshpande-atharva/AtharvaDeshpande0205.github.io.git
+cd AtharvaDeshpande0205.github.io
 npm install
 npm run dev
 ```
 
 ## Deployment
 
-Pushes to `main` auto-deploy to GitHub Pages via GitHub Actions.
+```bash
+npm run deploy
+```
 
 ---
 
 <div align="center">
 
-**Designed & Developed by Sahil Kasliwal**
+**Designed & Developed by Atharva Deshpande**
 
 &copy; 2026
 
