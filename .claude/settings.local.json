@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:reactbits.dev)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.reactbits.dev)",
+      "Bash(npx shadcn@latest add \"https://www.reactbits.dev/r/Lanyard-TS-TW\" --overwrite)",
+      "Bash(curl -sL \"https://www.reactbits.dev/r/Lanyard-TS-TW.json\")",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); print\\(data['files'][0]['content']\\)\")",
+      "Bash(npx tsc:*)",
+      "Bash(ls:*)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg\" -o golang.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg\" -o typescript.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg\" -o javascript.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg\" -o python.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg\" -o java.svg)",
+      "Bash(curl -sL \"https://cdn.simpleicons.org/reactquery/FF4154\" -o tanstack.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg\" -o html5.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg\" -o css3.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg\" -o tailwindcss.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg\" -o vite.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg\" -o postgresql.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg\" -o mongodb.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg\" -o aws.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg\" -o docker.svg)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg\" -o kubernetes.svg)",
+      "Bash(curl -sL \"https://www.reactbits.dev/r/GooeyNav-TS-TW.json\")",
+      "Bash(python3 -c \"import sys,json; data=json.load\\(sys.stdin\\); [print\\(f['path']\\) for f in data['files']]\")",
+      "Bash(curl -sL \"https://www.reactbits.dev/r/SplitFlapText-TS-TW.json\")",
+      "Bash(curl -sL \"https://cdn.simpleicons.org/microsoftoutlook/0078D4\" -o /d/deshpande-atha-portfolio/public/images/outlook.svg)",
+      "Bash(curl -sL \"https://cdn.simpleicons.org/instagram/E4405F\" -o /d/deshpande-atha-portfolio/public/images/instagram.svg)",
+      "Bash(npm run:*)"
+    ]
+  }
+}
