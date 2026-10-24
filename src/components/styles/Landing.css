@@ -280,6 +280,14 @@ h2.landing-info-h2 {
   left: 0;
 }
 
+@media screen and (max-width: 1024px) {
+  .landing-intro {
+    top: auto;
+    bottom: 200px;
+    z-index: 10;
+  }
+}
+
 @media screen and (min-width: 500px) {
   .landing-circle2 {
     display: block;
@@ -355,6 +363,7 @@ h2.landing-info-h2 {
 
   .landing-intro {
     top: 50%;
+    bottom: auto;
     left: auto;
     right: 66%;
     transform: translate(0%, -50%);
