@@ -56,11 +56,11 @@
   }
   .about-me {
     padding: 0px;
-    width: 50%;
+    width: 60%;
   }
   .about-me p {
-    font-size: 1.6vw;
-    line-height: 2vw;
+    font-size: 1.4vw;
+    line-height: 1.9vw;
   }
 }
 @media only screen and (min-width: 1950px) {
