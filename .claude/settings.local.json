@@ -30,7 +30,10 @@
       "Bash(curl -sL \"https://www.reactbits.dev/r/SplitFlapText-TS-TW.json\")",
       "Bash(curl -sL \"https://cdn.simpleicons.org/microsoftoutlook/0078D4\" -o /d/deshpande-atha-portfolio/public/images/outlook.svg)",
       "Bash(curl -sL \"https://cdn.simpleicons.org/instagram/E4405F\" -o /d/deshpande-atha-portfolio/public/images/instagram.svg)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "Bash(git push:*)"
     ]
   }
 }
