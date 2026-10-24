@@ -73,7 +73,7 @@ const Navbar = () => {
   return (
     <>
       <div className="header">
-        <a href="/#" className="navbar-title" data-cursor="disable">
+        <a href="https://www.linkedin.com/in/atharva-deshpande0205/" className="navbar-title" data-cursor="disable" target="_blank" rel="noreferrer">
           AD
         </a>
         <div className="navbar-gooey">
